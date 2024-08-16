@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://profile-readme-generator.com/result" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/resul" alt="Snake animation" />
 
 ###
 
