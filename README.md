@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width=100%/>
 
 ###
 
@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wiclem&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=wiclem&theme=darkhub&column=4&row=1&margin-w=4&margin-h=2&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
