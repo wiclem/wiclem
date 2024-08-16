@@ -52,9 +52,11 @@
 </div>
 
 ###
-<div class="styles__Wrapper-sc-6dg9xf-1 bKMdyI">
-  <div class="styles__Container-sc-ho21za-0 bGtBQL">
-    <img height="150" src="https://i.gifer.com/79di.gif" alt="Image">
+<div align="center">
+  <div class="styles__Wrapper-sc-6dg9xf-1 bKMdyI">
+    <div class="styles__Container-sc-ho21za-0 bGtBQL">
+      <img height="150" src="https://i.gifer.com/79di.gif" alt="Image">
+    </div>
   </div>
 </div>
 
