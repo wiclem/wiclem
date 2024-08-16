@@ -1,9 +1,9 @@
-<h3 align="center">Olá eu me chamo Wiclem</h3>
+<h3 align="center" style="font-family: 'underline', sans-serif;">Olá eu me chamo Wiclem</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiclem&radius=16&theme=github-dark&area=true&order=5&line=7c37ac" height="100" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiclem&radius=16&theme=github-dark&area=true&order=5&line=7c37ac" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -47,9 +47,11 @@
 <br clear="both">
 
 <div align="center">
+  
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="wiclem@1234" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
 </div>
