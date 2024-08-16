@@ -52,9 +52,9 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://i.gifer.com/79di.gif"  />
+<div class="styles__Container-sc-ho21za-0 bGtBQL">
+  <img height="150" src="https://i.gifer.com/79di.gif" alt="Image">
 </div>
+
 
 ###
