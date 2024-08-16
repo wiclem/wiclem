@@ -1,9 +1,9 @@
-<h3 align="left">Olá eu me chamo Wiclem</h3>
+<h3 align="center">Olá eu me chamo Wiclem</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiclem&radius=16&theme=github-dark&area=true&order=5&line=7c37ac" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiclem&radius=16&theme=github-dark&area=true&order=5&line=7c37ac" height="100" alt="activity-graph graph"  />
 </div>
 
 ###
