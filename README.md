@@ -6,8 +6,22 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/wiclem/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain.svg" height="40" alt="opera logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 ###
@@ -28,18 +42,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -52,9 +54,11 @@
 
 ###
 
-<div class="styles__Wrapper-sc-6dg9xf-1 bKMdyI">
-  <div class="styles__Container-sc-ho21za-0 bGtBQL">
-    <img height="150" src="https://i.gifer.com/Mr3W.gif" alt="Image">
-  </div>
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=wiclem&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=wiclem&theme=darkhub&column=4&row=1&margin-w=4&margin-h=2&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
+###
