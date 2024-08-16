@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wiclem/wiclem/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wiclem/wiclem/snake.svg" alt="Snake animation" />
 
 ###
 
