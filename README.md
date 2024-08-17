@@ -47,7 +47,7 @@
 <br clear="both">
 
 <div align="center">
-  
+  <a href="https://www.linkedin.com/in/wiclemlopes/" target="_blank"/>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
 </div>
+
 
 ###
 
@@ -64,5 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wiclem&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=wiclem&theme=darkhub&column=4&row=1&margin-w=4&margin-h=2&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<video poster="https://i.gifer.com/fetch/w300-preview/fa/fa9e27a7534060df383ab54354fcead3.gif" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/fxVE.mp4" type="video/mp4"></video>
 
 ###
