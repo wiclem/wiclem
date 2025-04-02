@@ -61,10 +61,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiclem&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=wiclem&theme=darkhub&column=4&row=1&margin-w=4&margin-h=2&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiclem&layout=compact&theme=dracula&hide_border=true" height="500" alt="Linguagens Mais Utilizadas" />
 
 <video poster="https://i.gifer.com/fetch/w300-preview/fa/fa9e27a7534060df383ab54354fcead3.gif" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/fxVE.mp4" type="video/mp4"></video>
 
