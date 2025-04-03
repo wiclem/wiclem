@@ -1,29 +1,21 @@
 <h2 align="center" style="font-family: Arial, sans-serif;">Olá, meu nome é Wiclem!</h2>
-<p align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em diversas áreas, incluindo:
+<p align="center" style="font-family: Arial, sans-serif; font-size: 16px; text-align: center;">
+Estudante de Engenharia da Computação e desenvolvedor de projetos robóticos.
 </p>
-<ul style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6;">
-  <li><strong>Programação:</strong> C++, Python</li>
-  <li><strong>Robótica:</strong> Desenvolvimento e integração de sistemas robóticos</li>
-  <li><strong>Hardware:</strong> Trabalhos com ESP e Arduinos</li>
-  <li><strong>Atuações:</strong> Participação em projetos e soluções tecnológicas</li>
+<ul style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6; margin: 0 auto; width: 50%; text-align: left;">
+  <li><strong>Programação:</strong> C++, Python, PHP</li>
+  <li><strong>Robótica:</strong> Desenvolvimento e integração de sistemas robóticos e automações utilizando ESP e Arduino</li>
+  <li><strong>Impressão 3D:</strong> Entusiasta de impressão 3D, explorando ideias criativas e funcionais</li>
 </ul>
-<p align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
-Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e aprender algo novo.
-</p>
+
+
+###
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=wiclem&radius=16&theme=github-dark&area=true&order=5&line=7c37ac" height="250" alt="activity-graph graph"  /></div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiclem&radius=16&theme=github-dark&area=true&order=5&line=7c37ac" height="250" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wiclem/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/wiclem/count.svg?" style="filter: hue-rotate(270deg);" />
 </div>
 
 ###
@@ -61,7 +53,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habi
 <div align="center">
   <a href="https://www.linkedin.com/in/wiclemlopes/" target="_blank"/>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   <a href="wiclem123@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
@@ -75,6 +67,6 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habi
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiclem&layout=compact&theme=dracula&hide_border=true" height="500" alt="Linguagens Mais Utilizadas" />
 
-<video poster="https://i.gifer.com/fetch/w300-preview/fa/fa9e27a7534060df383ab54354fcead3.gif" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/fxVE.mp4" type="video/mp4"></video>
+
 
 ###
