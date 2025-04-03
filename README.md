@@ -1,4 +1,16 @@
-<h3 align="center" style="font-family: 'underline', sans-serif;">Olá eu me chamo Wiclem</h3>
+<h2 align="center" style="font-family: Arial, sans-serif;">Olá, meu nome é Wiclem!</h2>
+<p align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em diversas áreas, incluindo:
+</p>
+<ul style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6;">
+  <li><strong>Programação:</strong> C++, Python</li>
+  <li><strong>Robótica:</strong> Desenvolvimento e integração de sistemas robóticos</li>
+  <li><strong>Hardware:</strong> Trabalhos com ESP e Arduinos</li>
+  <li><strong>Atuações:</strong> Participação em projetos e soluções tecnológicas</li>
+</ul>
+<p align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
+Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e aprender algo novo.
+</p>
 
 ###
 
