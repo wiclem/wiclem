@@ -63,10 +63,17 @@ Estudante de Engenharia da Computação e desenvolvedor de projetos robóticos.
 
 ###
 
-<br clear="both">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiclem&layout=compact&theme=dracula&hide_border=true" height="500" alt="Linguagens Mais Utilizadas" />
 
 
 
 ###
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=wiclem&theme=dracula" alt="iuricode">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiclem&hide=html&layout=compact&theme=dracula" alt="iuricode">
+  </a>
+</div>
+
